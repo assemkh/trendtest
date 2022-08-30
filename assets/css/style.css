@@ -786,6 +786,7 @@ section {
 
 @media (max-width: 575px) {
 .abtus1{
+  margin: 25px 0 ;
   width: 180px;
 }
 }
